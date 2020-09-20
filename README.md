@@ -54,7 +54,7 @@ The Horiseon marketing agency wants to refactor an existing site to make it more
 
 The following image shows the web application's appearance and functionality:
 
-![code refactor](./Assets/Images/original-appearance.png)
+![code refactor](./assets/images/original-appearance.png)
 
 ## Links
 
